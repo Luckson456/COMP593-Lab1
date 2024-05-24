@@ -1,2 +1,2 @@
-print("Flat is better than complex.")
-print("Unless explicitly silenced.")
+print("Flat is better than complex--that's fact.")
+print("Unless explicitly silenced--true.")
